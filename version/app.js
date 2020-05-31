@@ -6,7 +6,7 @@ var response;
 app.get('/', function (req, res) {
 
     //response = 'This is version 1 of the app.' + '\n';
-    response = 'This is version 2 of the app made by Myrembri.' + '\n';
+    response = 'This is version 3 of the app made by Myrembri at 31/05/2020 13:56pm.' + '\n';
 
 
     //send the response to the client
